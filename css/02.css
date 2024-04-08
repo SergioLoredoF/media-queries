@@ -1,0 +1,16 @@
+.precio {
+    font-size: 3rem;
+    margin: 0;
+}
+
+@media (min-width: 600px){
+
+    .oferta{
+        max-width: calc(90% );
+    }
+
+    .precio {
+        font-size: 7rem;
+        margin: 0;
+    }
+}
